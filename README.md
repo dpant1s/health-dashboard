@@ -14,4 +14,5 @@ A personal habit tracking dashboard built with Python and Streamlit.
 
 ## How to Run
 pip install streamlit pandas matplotlib
+
 streamlit run app.py
